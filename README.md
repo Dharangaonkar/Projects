@@ -1,4 +1,6 @@
 **Walmart Sales Data Analysis**
+
+
 Project Overview:
 This project involves an in-depth analysis of Walmart’s sales data to uncover insights about branch performance, product line success, customer behavior, and sales trends. The data, sourced from the Kaggle Walmart Sales Forecasting Competition, provides valuable information on sales transactions, customer demographics, and product performance across multiple Walmart branches. The aim is to offer data-driven recommendations to optimize sales strategies and improve business operations.
 
